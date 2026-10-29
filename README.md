@@ -65,5 +65,5 @@
 
 ## 📬 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/SEU_LINKEDIN](https://linkedin.com/in/SEU_LINKEDIN)
-- **Email:** `seu-email@usp.br`
+- **LinkedIn:** [linkedin.com/in/gabrielmarchesano](https://www.linkedin.com/in/gabrielmarchesano/))
+- **Email:** `gabrielmarchesano.contato@gmail.com`
