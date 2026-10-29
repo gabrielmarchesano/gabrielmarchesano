@@ -13,10 +13,10 @@
 
 ## 🚀 About Me
 
-- 🎓 Undergraduate student in **Information Systems** at **Universidade de São Paulo (USP)**.
-- 🤖 Passionate about **Machine Learning**, **Generative AI (LLMs, RAG, GraphRAG)**, and **Multi-Agent Systems**.
-- 📊 Focused on **Data Engineering** and **Process Mining**
-- 🛠️ Building applications mainly with **Python** and **PostgreSQL**. One of them with front-end ( **CSS**, **HTML** and **JS**): **Bolão da Copa**
+-  Undergraduate student in **Information Systems** at **Universidade de São Paulo (USP)**.
+-  Passionate about **Machine Learning** and **Generative AI (LLMs, RAG)** as a Hype Data & AI study group member
+-  Focused on LLM's applications for **Process Mining** in my research at USP
+-  Building applications mainly with **Python** and **PostgreSQL**. One of them is a full-stack APP (front-end using **CSS**, **HTML** and **JS**): [**Bolão da Copa**](https://github.com/gabrielmarchesano/bolao-copa-26)
 
 ---
 
@@ -25,12 +25,10 @@
 ### Languages & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
 ### Data Science & AI Tools
@@ -44,26 +42,27 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmarchesano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmarchesano&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
----
 
 ## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **ClimaTour** | Recommendation agent leveraging LLMs and weather data. | `LangChain` `FastAPI` `Groq` |
-| 📈 **JANUS** | Quantitative score-based trading algorithm. | `Python` `Pandas` `StatsModels` |
-| 💳 **Microcredit Service** | Microcredit system architecture & database spec. | `PostgreSQL` `System Design` |
+|  [**Ensemble RAG Next Activity** *(In Progress)*](https://github.com/gabrielmarchesano/ensemble_rag_next_activity) | Ongoing research at Universidade de São Paulo exploring ensemble methods and RAG to predict next activities in business process logs. | `Python` `Process Mining` `LLMs` `RAG` |
+|  [**ClimaTour**](https://github.com/gabrielmarchesano/climatour-agent) | Recommendation agent leveraging LLMs and weather data. | `LangChain` `Streamlit` `Groq` |
+|  [**Microcredit Service**](https://github.com/gabrielmarchesano/bootcamp-base-service) | Microcredit system architecture & database spec for QI Tech Bootcamp first round  | `PostgreSQL` `System Design` `FastAPI` |
+|  [**PIX AntiFraud API**](https://github.com/Cerqueira11/hacka_qitech_eachismo) | Anti-fraud engine for Pix transactions - Recognized as a top-performing group at QI Tech Hackathon Bootcamp Final | `PostgreSQL` `System Design` `FastAPI` |
+|  [**Analysis of Coronarian Disease Data**](https://github.com/gabrielmarchesano/data-analysis-mqam) | Academic project for 'Métodos Quantitativos para análise multivariada' discipline applying discretive and predictive models for the dataset | `Python` `Data Visualization` `Scikit-Learn` |
+
+<p align="left">
+  <b>To see more projects, click here: </b>
+  <a href="https://github.com/gabrielmarchesano?tab=repositories">
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects" />
+  </a>
+</p>
 
 ---
 
 ## 📬 Connect with Me
 
-- **LinkedIn:** [linkedin.com/in/gabrielmarchesano](https://www.linkedin.com/in/gabrielmarchesano/))
+- **LinkedIn:** [linkedin.com/in/gabrielmarchesano](https://www.linkedin.com/in/gabrielmarchesano/)
 - **Email:** `gabrielmarchesano.contato@gmail.com`
